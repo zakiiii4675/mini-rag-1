@@ -21,3 +21,6 @@ $ conda create -n mini-rag python=3.8
 $ conda activate mini-rag
 ```
 
+
+### (optional) setup your commmand line  interface for better readability
+
